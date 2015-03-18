@@ -4,9 +4,9 @@
   "version": "2.2.5.1",
   "main": ["js/bootstrap-modal.js", "js/bootstrap-modalmanager.js", "css/bootstrap-modal.css"],
   "dependencies": {
-    "bootstrap": "*"
+   
   },
-  "url": "https://github.com/jschr/bootstrap-modal.git",
+  "url": "https://github.com/gefestvg/bootstrap-modal.git",
   "author": "Jordan Schroter",
   "license": {
     "type": "Apache License 2.0",
